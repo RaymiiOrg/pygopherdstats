@@ -1,10 +1,12 @@
 # pygopherd log analyzer
 
 Simple log analyzer for pygopherd. Fun if you have a gopherhole and want statistics.
+If you ever used [Logwatch](https://wiki.archlinux.org/index.php/Logwatch) you'll
+feel at home.
 
 ## Requirements
 
-- pygopherd
+- pygopherd (tested with 2.0.18)
 - syslog of some kind
 - bash 4+
 
